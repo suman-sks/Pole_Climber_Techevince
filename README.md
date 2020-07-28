@@ -1,11 +1,12 @@
 # Pole_Climber_Techevince
-<em>It's a robot which can climb on poles of variable diameter and move on floor as well.</em>
+<em>It's a robot which can climb on poles of variable length and move on floor as well.</em>
 
-Basic Skeleton:
-body of robot is Quadrilateral.
-four boxes of acrylic sheet(designed and cut by laser cutting) are joined by well co-ordinated racks.
-The racks are movable , they are used to adjust body of robot across the pole of variable diameter , using rack and pinion mechanism.
-
+<h2>Basic Skeleton:</h2>
+<ol>
+<li>body of robot is Quadrilateral.</li>
+<li>four boxes of acrylic sheet(designed and cut by laser cutting) are joined by well co-ordinated racks.</li>
+<li>The racks are movable , they are used to adjust body of robot across the pole of variable diameter , using rack and pinion mechanism.</li>
+</ol>
 There are three kind of movements:
 1.Ground(floor)movement
 2.climbing movement
