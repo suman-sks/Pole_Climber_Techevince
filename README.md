@@ -19,7 +19,7 @@ This sort of arrangement of wheel will make robot move in both horizontal and st
 These wheels will get the bot in comfortable position to climb the pole.
 
 2.Climbing movement:
-For climbing purpose we used four ---sized wheels, connected with high torque motor
+For climbing purpose we used four (6.5 cm) wheels, connected with high torque motor
 wheels are fixed on the boxes ,so that they can get hold of the pole conveniently.
 They are capable of both upward and downword motions.
 
