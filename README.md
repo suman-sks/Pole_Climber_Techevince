@@ -1,7 +1,6 @@
 # Pole_Climber_Techevince
 
-<em>It's a robot which can climb on poles of variable diameter and move on floor as well.You can find report for the same here</em>
-  https://drive.google.com/file/d/1SONYJi1GOcU4sz0mCggJJieo_yUOZuli/view?usp=sharing
+<em>It's a robot which can climb on poles of variable diameter and move on floor as well.<em>
 
 <h2>Basic Skeleton:</h2>
 <ul>
@@ -39,6 +38,10 @@ These racks are moved by eight pinions which are fixed in boxes.Each box contain
 Motion of pinion is controlled by servo motors
 Boxes are designed such that rack can move through them , they have given cavities at perticular position .
 
+<br>
+<br>
+<em>You can find report for the same here</em>
+  https://drive.google.com/file/d/1SONYJi1GOcU4sz0mCggJJieo_yUOZuli/view?usp=sharing
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/58730178/88639794-cda7de00-d0da-11ea-955a-add762f583d3.jpg">
