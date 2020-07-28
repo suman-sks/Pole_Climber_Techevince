@@ -39,3 +39,4 @@ Motion of pinion is controlled by servo motors
 Boxes are designed such that rack can move through them , they have given cavities at perticular position .
 
 
+<img src="https://user-images.githubusercontent.com/58730178/88639794-cda7de00-d0da-11ea-955a-add762f583d3.jpg">
