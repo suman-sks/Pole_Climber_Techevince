@@ -27,8 +27,7 @@
   - These wheels will get the bot in comfortable position to climb the pole.
 
 - **Climbing Movement:**
-  - For climbing purpose we used four (6.5 cm) wheels, connected with high torque motor
-  - wheels are fixed on the boxes ,so that they can get hold of the pole conveniently.
+  - For climbing purpose we used four (6.5 cm) wheels, connected with high torque motor wheels are fixed on the boxes ,so that they can get hold of the pole    conveniently.
   - They are capable of both upward and downword motions.
 
 - **Body Structure(rack) Movement:**
