@@ -1,5 +1,5 @@
 # Pole_Climber_Techevince
-<em>It's a robot which can climb on poles of variable length and move on floor as well.</em>
+<em>It's a robot which can climb on poles of variable diameter and move on floor as well.</em>
 
 Basic Skeleton:
 body of robot is Quadrilateral.
