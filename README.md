@@ -1,6 +1,6 @@
 # Pole_Climber_Techevince
 
-<em>It's a robot which can climb on poles of variable length and move on floor as well.You can find report for the same here</em>
+<em>It's a robot which can climb on poles of variable diameter and move on floor as well.You can find report for the same here</em>
   https://drive.google.com/file/d/1SONYJi1GOcU4sz0mCggJJieo_yUOZuli/view?usp=sharing
 
 <h2>Basic Skeleton:</h2>
