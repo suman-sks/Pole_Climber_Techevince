@@ -31,7 +31,7 @@ For climbing purpose we used four ---sized wheels, connected with high torque mo
 wheels are fixed on the boxes ,so that they can get hold of the pole conveniently.
 They are capable of both upward and downword motions.
 <br>
-<h2>3.Body structre(rack) movement:</h2>
+<h2>3.Body structure(rack) movement:</h2>
 As body movement of robot plays main role in getting grip for climbing , it is supposed to be fluent and must be co-ordinated accurately.
 It has four racks supported by drawer plates(for fluent motion)
 These racks are moved by eight pinions which are fixed in boxes.Each box contain 2 pinions.
@@ -44,4 +44,4 @@ Boxes are designed such that rack can move through them , they have given caviti
 <br>
 <br>
 
-<em> --created by us :-) !<em>
+<em> --created by us :-)  !<em>
