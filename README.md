@@ -8,8 +8,6 @@
 <li>Four boxes of acrylic sheet(designed and cut by laser cutting) are joined by well co-ordinated racks.</li>
 <li>The racks are movable , they are used to adjust body of robot across the pole of variable diameter , using rack and pinion mechanism.</li>
 </ul>
-<br>
-<br>
 
 
 <h4>There are three kind of movements:</h4>
