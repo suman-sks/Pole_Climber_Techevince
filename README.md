@@ -41,8 +41,8 @@
   https://drive.google.com/file/d/1SONYJi1GOcU4sz0mCggJJieo_yUOZuli/view?usp=sharing
 <br>
 <br>
-<img src="Images/1.jpeg" align="left" height="350" width="450">
-<img src="Images/2.jpeg" align="right" height="350" width="450">
+<img src="Images/1.jpeg" align="left" height="300" width="350">
+<img src="Images/2.jpeg" align="right" height="300" width="350">
 <br>
 <br>
 
