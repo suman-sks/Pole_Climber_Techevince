@@ -41,7 +41,8 @@
   https://drive.google.com/file/d/1SONYJi1GOcU4sz0mCggJJieo_yUOZuli/view?usp=sharing
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/58730178/88639794-cda7de00-d0da-11ea-955a-add762f583d3.jpg">
+<img src="Images/1.jpeg" align="left" height="350" width="450">
+<img src="Images/2.jpeg" align="right" height="350" width="450">
 <br>
 <br>
 
